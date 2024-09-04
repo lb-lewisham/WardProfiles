@@ -5,10 +5,8 @@ Welcome to the Ward Profiles Web Application! This project is designed to provid
 ## Table of Contents
 - [Features](#features)
 - [Installation](#installation)
-- [Running the Application](#running-the-application)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- [Running the Application (locally)](#Running-the-Application-(locally))
+  
 
 ## Features
 - Interactive maps using Folium
@@ -44,7 +42,7 @@ Before you begin, ensure you have Python 3.8+ installed on your system.
 6. **Install all the other python packages required**
    ![image](https://github.com/user-attachments/assets/5a8ce81c-e865-4a4c-bfb5-8cc487fceb50)
 
-## Running Flask locally:
+## Running the Application (locally):
 
 1. **Setting up environment variables:**
    ```bash
